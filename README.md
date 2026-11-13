@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhafiz Khairi</h1>
 <h3 align="center">Ngoding pas gabut doang</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Suka Suka</h3>
 <p align="left">
 </p>
 
