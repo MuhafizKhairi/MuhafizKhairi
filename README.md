@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8EDEA,100:8EC5FC&height=200&section=header&text=Muhafiz%20Khairi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer%20%7C%20Flutter%20%7C%20Kotlin%20%7C%20PHP&descSize=18&descAlignY=60" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8EDEA,100:8EC5FC&height=200&section=header&text=Muhafiz%20Khairi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Mobile%20and%20Web%20Developer%20%7C%20Flutter%20%7C%20Kotlin%20%7C%20PHP&descSize=18&descAlignY=60" width="100%" alt="header" />
 </p>
 
 <!-- Gambar utama -->
@@ -63,8 +63,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhafizKhairi&layout=donut&theme=tokyonight&hide_border=true" height="190" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhafizKhairi&show_icons=true&theme=tokyonight&hide_border=true" height="190" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhafizKhairi&theme=tokyonight" width="40%" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhafizKhairi&theme=tokyonight" width="40%" alt="Stats" />
 </p>
 
 <p align="center">
@@ -77,14 +77,14 @@
 <h3 align="center">🏆 Profile Trophy</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhafizKhairi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=MuhafizKhairi&theme=tokyonight&row=1&column=7" alt="Trophies" />
 </p>
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhafizKhairi&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/5B9CF6/MuhafizKhairi" width="90%" alt="Contribution graph" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 <h3 align="center">💬 Quotes</h3>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=5B9CF6&center=true&vCenter=true&width=700&height=100&multiline=true&repeat=false&lines=%E2%80%9CThe+only+way+to+do+great+work+is+to+love+what+you+do.%E2%80%9D;%E2%80%94+Steve+Jobs" alt="Quote" />
 </p>
 
 ---
