@@ -49,14 +49,24 @@
 </h2>
 
 <p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=MuhafizKhairi&data=followers,repositories,stars&theme=darkmode" alt="Profile card" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhafizKhairi&label=PROFILE+VIEWS&color=5B9CF6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/MuhafizKhairi?label=FOLLOWERS&style=for-the-badge&color=5B9CF6&labelColor=2d2d2d" alt="Followers" />
+  <img src="https://badges.pufler.dev/years/MuhafizKhairi?style=for-the-badge&color=5B9CF6" alt="Years" />
+  <img src="https://badges.pufler.dev/repos/MuhafizKhairi?style=for-the-badge&color=5B9CF6" alt="Repos" />
+  <img src="https://badges.pufler.dev/commits/monthly/MuhafizKhairi?style=for-the-badge&color=5B9CF6" alt="Commits this month" />
 </p>
 
 ---
 
 <!-- ===================== GITHUB STATS ===================== -->
 <h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=MuhafizKhairi&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub stats card" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhafizKhairi&theme=tokyonight" width="70%" alt="Profile details" />
@@ -87,13 +97,19 @@
   <img src="https://ghchart.rshah.org/5B9CF6/MuhafizKhairi" width="90%" alt="Contribution graph" />
 </p>
 
+<!-- Animasi ular: file contrib-eater.svg harus di-upload dulu ke repo ini -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhafizKhairi/MuhafizKhairi/HEAD/contrib-eater.svg" alt="Animasi ular memakan kontribusi" />
+</p>
+
 ---
 
 <!-- ===================== QUOTES ===================== -->
 <h3 align="center">💬 Quotes</h3>
 
+<!-- File quote-card.svg harus di-upload dulu ke repo ini -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=5B9CF6&center=true&vCenter=true&width=700&height=100&multiline=true&repeat=false&lines=%E2%80%9CThe+only+way+to+do+great+work+is+to+love+what+you+do.%E2%80%9D;%E2%80%94+Steve+Jobs" alt="Quote" />
+  <img src="https://raw.githubusercontent.com/MuhafizKhairi/MuhafizKhairi/HEAD/quote-card.svg" width="85%" alt="Quote: Satu-satunya cara untuk melakukan pekerjaan hebat adalah dengan mencintai apa yang kamu lakukan. - Steve Jobs" />
 </p>
 
 ---
