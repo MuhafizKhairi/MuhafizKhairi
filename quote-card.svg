@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 190" width="760" height="190">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#12132b"/>
+      <stop offset="55%" stop-color="#1b2145"/>
+      <stop offset="100%" stop-color="#2d1b4e"/>
+    </linearGradient>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#83eaf1"/>
+      <stop offset="50%" stop-color="#63a4ff"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <clipPath id="cp"><rect x="1" y="1" width="758" height="188" rx="18"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="758" height="188" rx="18" fill="url(#bg)" stroke="url(#bd)" stroke-width="2"/>
+  <g clip-path="url(#cp)">
+    <circle cx="70" cy="20" r="90" fill="#63a4ff" opacity="0.10"/>
+    <circle cx="720" cy="190" r="110" fill="#c084fc" opacity="0.12"/>
+    <circle cx="380" cy="-40" r="70" fill="#83eaf1" opacity="0.06"/>
+    <circle cx="140" cy="150" r="2" fill="#fff"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="40" r="2.2" fill="#fff"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="150" r="1.6" fill="#83eaf1"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="30" r="1.6" fill="#c084fc"><animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="110" r="1.4" fill="#fff"><animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="110" r="1.4" fill="#fff"><animate attributeName="opacity" values="1;0.3;1" dur="3.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="30" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="110" fill="#63a4ff" opacity="0.28">&#8220;</text>
+  <text x="730" y="178" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="110" fill="#c084fc" opacity="0.22">&#8221;</text>
+  <g>
+    <animate attributeName="opacity" from="0" to="1" dur="1.4s" fill="freeze"/>
+    <text x="380" y="82" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-style="italic" fill="#e8eefc">Satu-satunya cara untuk melakukan pekerjaan hebat</text>
+    <text x="380" y="114" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-style="italic" fill="#e8eefc">adalah dengan mencintai apa yang kamu lakukan.</text>
+    <text x="380" y="154" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-style="italic" fill="#83eaf1">— Steve Jobs</text>
+  </g>
+</svg>
